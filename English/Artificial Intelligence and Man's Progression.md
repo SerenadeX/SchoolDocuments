@@ -1,7 +1,7 @@
-#### Rhett Rogers
-#### Mrs. Scott
-#### ENGL 2010
-#### 22 October 2010
+###### Rhett Rogers
+###### Mrs. Scott
+###### ENGL 2010
+###### 22 October 2010
 
 # Artificial Intelligence and Man's Progression
               
